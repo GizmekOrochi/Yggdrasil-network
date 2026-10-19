@@ -1,0 +1,25 @@
+# Compiled objects
+/build/obj/
+/lib/
+/bin/
+
+# Generated documentation
+/docs/generated/
+
+# C++ artifacts
+*.o
+*.d
+*.a
+*.so
+*.so.*
+*.out
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
